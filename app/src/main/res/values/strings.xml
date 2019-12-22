@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Crossword Puzzle</string>
+    <string name="title_activity_puzzle">Puzzle</string>
+
+    <!--Label-->
+    <string name="no_puzzles">This is where you\'ll see puzzles uploaded into Google Cloud Firestore</string>
+    <string name="puzzle_available">The selected puzzle is already available from the Google Cloud Firestore</string>
+    <string name="title_by_author">%1$s by %2$s</string>
+    <string name="across">%1$d. Across: %2$s</string>
+    <string name="down">%1$d. Down: %2$s</string>
+
+    <!--Menu-->
+    <string name="menu_solve_square">Solve square</string>
+    <string name="menu_solve_word">Solve word</string>
+    <string name="menu_solve_puzzle">Solve puzzle</string>
+    <string name="menu_restart">Restart</string>
+
+    <!--Button-->
+    <string name="action_upload">Upload</string>
+    <string name="action_okay">Okay</string>
+    <string name="action_cancel">Cancel</string>
+
+    <!--Alert Dialog-->
+    <string name="title_upload">Upload Puzzle</string>
+    <string name="title_invalid">Invalid File</string>
+    <string name="message_upload">This will upload the selected puzzle to Google Cloud Firestore.</string>
+    <string name="message_cannot_upload">You can upload only files of type <b>.puz</b> or <b>.puzzle</b>.</string>
+
+    <!--Toast-->
+    <string name="you_solved_puzzle">You\'ve solved the puzzle!</string>
+</resources>

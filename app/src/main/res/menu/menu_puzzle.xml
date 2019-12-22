@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.puzzle.PuzzleActivity">
+    <item
+        android:id="@+id/menu_solve_square"
+        android:orderInCategory="100"
+        android:title="@string/menu_solve_square"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_solve_word"
+        android:orderInCategory="101"
+        android:title="@string/menu_solve_word"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_solve_puzzle"
+        android:orderInCategory="102"
+        android:title="@string/menu_solve_puzzle"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_restart"
+        android:orderInCategory="103"
+        android:title="@string/menu_restart"
+        app:showAsAction="never" />
+</menu>

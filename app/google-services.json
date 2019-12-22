@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "643726146000",
+    "firebase_url": "https://crossword-puzzle-a3afc.firebaseio.com",
+    "project_id": "crossword-puzzle-a3afc",
+    "storage_bucket": "crossword-puzzle-a3afc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643726146000:android:adb5d3f7136c66c6b1e1d5",
+        "android_client_info": {
+          "package_name": "com.sridhar.crosswordpuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643726146000-04mn098uukvb4cascghjegfff8jfcn1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sridhar.crosswordpuzzle",
+            "certificate_hash": "21f915f6f2499b05689b1c0042d6dfc631bca4dc"
+          }
+        },
+        {
+          "client_id": "643726146000-q5t8r86cf3127qmqv1t5cana33nb5nus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnO7T3jYuyB7D44quzsf8lFEAzh7GFK5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643726146000-q5t8r86cf3127qmqv1t5cana33nb5nus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
